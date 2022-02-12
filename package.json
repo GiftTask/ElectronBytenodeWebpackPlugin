@@ -1,0 +1,30 @@
+{
+  "name": "electron-bytenode-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Compiles electron JS files to V8 bytecode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiftTask/ElectronBytenodeWebpackPlugin.git"
+  },
+  "keywords": [
+    "electron",
+    "compile",
+    "bytecode",
+    "webpack",
+    "webpack-plugin",
+    "bytenode"
+  ],
+  "author": "MoeHero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GiftTask/ElectronBytenodeWebpackPlugin/issues"
+  },
+  "homepage": "https://github.com/GiftTask/ElectronBytenodeWebpackPlugin#readme",
+  "dependencies": {
+    "bytenode": "^1.3.4"
+  }
+}
