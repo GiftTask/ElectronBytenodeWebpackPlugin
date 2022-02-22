@@ -1,6 +1,6 @@
 {
   "name": "electron-bytenode-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Compiles electron JS files to V8 bytecode",
   "main": "index.js",
   "scripts": {
